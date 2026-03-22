@@ -1,0 +1,72 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.titlehed {
+    color: #4D5AE5
+}
+
+.navigator {
+    font-family: "Raleway", sans-serif;
+    font-size: 21px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.links {
+    color:#2E2F42;
+    text-decoration: none;
+}
+.effective {
+    background-color: #2E2F42;
+}
+.zagolovok {
+    font-style: 700;
+    color: #FFFFFF;
+    text-align: center;
+}
+.order-button {
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.team {
+    background-color: #F4F4FD;
+
+}
+.spys {
+    list-style-type: none;
+}
+
+.team-card {
+    background-color: #FFFFFF; 
+
+}
+.team-content {
+    text-align: center; 
+}
+.title {
+    text-align: center; 
+}
+
+.footer-section {
+    background-color:#2E2F42;
+    color: #FFFFFF; 
+}
+.navigator-sec {
+    color:#FFFFFF;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.links:hover,
+.links:focus {
+    color: #4D5AE5;
+}
+.order-button:hover, 
+.order-button:focus { 
+    background-color: #404BBF; 
+}
