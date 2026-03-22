@@ -6,9 +6,12 @@ body {
     background-color: #FFFFFF;
     letter-spacing: 0.02em;
 }
+
 .titlehed {
     color: #4D5AE5
 }
+
+
 
 .navigator {
     font-family: "Raleway", sans-serif;
@@ -20,17 +23,20 @@ body {
     letter-spacing: 0.03em;
     color: #2E2F42;
 }
+
 .links {
-    color: #2E2F42; 
+    color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
+
 .effective {
     background-color: #2E2F42;
 }
+
 .zagolovok {
     font-weight: 700;
     color: #FFFFFF;
@@ -38,7 +44,9 @@ body {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+
 }
+
 .order-button {
     color: #FFFFFF;
     background-color: #4D5AE5;
@@ -46,23 +54,33 @@ body {
     letter-spacing: 0.04em;
     font-weight: 500;
     line-height: 1.5;
+
 }
+
+
 
 .team {
     background-color: #F4F4FD;
+}
 
+ul {
+    list-style-type: none;
 }
-ul { 
-    list-style-type: none; 
-}
+
+
 
 .team-card {
-    background-color: #FFFFFF; 
+    background-color: #FFFFFF;
+
+
 
 }
+
 .team-content {
-    text-align: center; 
+    text-align: center;
+
 }
+
 .title {
     text-align: center;
     font-size: 36px;
@@ -70,13 +88,16 @@ ul {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2E2F42; 
+    color: #2E2F42;
 }
+
+
 
 .footer-section {
     background-color:#2E2F42;
-    color: #F4F4FD; 
+    color: #F4F4FD;
 }
+
 .navigator-sec {
     color:#f4f4fd;
     font-family: "Raleway", sans-serif;
@@ -87,13 +108,15 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
 }
+
 .links:hover,
 .links:focus {
     color: #404bbf;
 }
-.order-button:hover, 
-.order-button:focus { 
-    background-color: #404bbf; 
+
+.order-button:hover,
+.order-button:focus {
+    background-color: #404bbf;
 }
 
 .adress{
@@ -102,12 +125,14 @@ ul {
     text-decoration: none;
     font-weight: 400;
     letter-spacing: 0.02em;
-
 }
+
 .adress:hover,
 .adress:focus {
     color: #404bbf;
 }
+
+
 
 .title-thr{
     font-size: 20px;
@@ -116,7 +141,9 @@ ul {
     line-height: 1.2;
     color: #2E2F42;
 }
+
 .footer-text{
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
+
